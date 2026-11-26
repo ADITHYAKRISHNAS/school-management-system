@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Secrets and local settings
+.env
+
+# Database (local data, never shared)
+db.sqlite3
+
+# Private uploads (answer sheets)
+private_media/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor files
+.vscode/
