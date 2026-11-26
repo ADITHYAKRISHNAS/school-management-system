@@ -1,7 +1,23 @@
 # School Management System
 
-Role-based School Management System built with Django: attendance with
-substitute teachers, exams and results, leave workflow, and secure
-answer-sheet downloads.
+A web application for managing a school's students, staff, attendance,
+exams, assignments, leave and announcements, with role-based access for
+six user types.
 
-**Status:** in development (Phase 0: setup).
+## Status
+Under development. Current milestone: v0.1 (setup and models).
+
+## Tech stack
+Django 5.2 LTS, HTML, CSS, vanilla JavaScript, SQLite (PostgreSQL planned).
+
+## Roles
+Management, Principal, Teacher, Non-Teaching Staff, Student, Parent.
+
+## Documentation
+- Requirements: docs/ (SRS)
+- Design: docs/ (ER diagram, data flow diagram)
+- Decisions: docs/decisions/
+- Progress: CHANGELOG.md and the SMS Development project board
+
+## Setup
+Instructions will be added once the project runs.
