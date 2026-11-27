@@ -18,6 +18,8 @@ Management, Principal, Teacher, Non-Teaching Staff, Student, Parent.
 - Design: docs/ (ER diagram, data flow diagram)
 - Decisions: docs/decisions/
 - Progress: CHANGELOG.md and the SMS Development project board
+- UI mockups: docs/design/ (login, management dashboard, teacher attendance)
 
 ## Setup
 Instructions will be added once the project runs.
+
